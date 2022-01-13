@@ -1,7 +1,7 @@
 {
   "name": "@filmgardi/videojs-hlsjs",
   "description": "The hls.js pluging for video.js player.",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "main": "./lib/main.js",
   "homepage": "www.simarayanco.ir",
   "author": {
